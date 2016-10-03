@@ -368,8 +368,8 @@ else
     <tr>
         <td>&nbsp;</td>
         <td colspan="3">Example - POST URL:
-            <a href="SafetyPayPOSTExpress.php"
-               target="_blank">http://www.mydomain.com/SafetyPayPOSTExpress.php
+            <a href="SafetyPayPOSTNotification.php"
+               target="_blank">http://www.mydomain.com/SafetyPayPOSTNotification.php
             </a>
         </td>
     </tr>
